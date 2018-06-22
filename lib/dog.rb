@@ -3,4 +3,5 @@
  end
  #fido, snoopy, 
  fido = Dog.new
- snoopy = 
+ snoopy = Dog.new
+ 
